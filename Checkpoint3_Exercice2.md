@@ -18,8 +18,8 @@ Q.2.2.2
 Q.2.2.3  
 ![Q 2 2 3](https://github.com/user-attachments/assets/20aafe28-8210-4c9e-baee-ebd487639654)  
 ![Q 2 2 3 1](https://github.com/user-attachments/assets/fd62a182-5d3b-4995-b6ff-5edade98a51d)  
-![SSHDCONFIG](https://github.com/user-attachments/assets/1a723dc9-7fe5-4ef0-ba1d-ee8d3a90a7b7)
-![Q 2 2 3 2](https://github.com/user-attachments/assets/fb663fde-da69-4702-9f14-1d47ef3fabfd)
+![SSHDCONFIG](https://github.com/user-attachments/assets/1a723dc9-7fe5-4ef0-ba1d-ee8d3a90a7b7)  
+![Q 2 2 3 2](https://github.com/user-attachments/assets/fb663fde-da69-4702-9f14-1d47ef3fabfd)  
 ![Q 2 2 3 3](https://github.com/user-attachments/assets/78152264-4eed-4ded-9d36-f2ad2a5247cf)  
 ![Q 2 2 3 4](https://github.com/user-attachments/assets/9b2c2be5-60d5-44a3-9794-5c9c0517c9c9)  
 
@@ -38,8 +38,8 @@ Q.2.3.3
 
 Q.2.3.4  
 ![Q 2 3 4](https://github.com/user-attachments/assets/526bd0de-a507-4ad5-b457-01b827de091f)  
-![Q 2 3 4 1](https://github.com/user-attachments/assets/91f16120-f419-42ae-8254-60110b56db72)
-![Q 2 3 4 15](https://github.com/user-attachments/assets/b23ac6f7-1725-4af9-beb7-807643c4e849)
+![Q 2 3 4 1](https://github.com/user-attachments/assets/91f16120-f419-42ae-8254-60110b56db72)  
+![Q 2 3 4 15](https://github.com/user-attachments/assets/b23ac6f7-1725-4af9-beb7-807643c4e849)  
 ![Q 2 3 4 2](https://github.com/user-attachments/assets/876af3b1-e4ef-4377-9f9a-2adc8238e96e)  
 ![Q 2 3 4 3](https://github.com/user-attachments/assets/c3738fb6-dd57-415d-bfe8-9e0846d5fe26)  
 
